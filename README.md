@@ -36,7 +36,7 @@
 </p>
 <br>
 <h2 align="center">🚀 About me</h2>
-<img src="./content/code-time.webp" hspace="30" vspace="5" style="float:left;" width="100" title="gmail">
+<img src="./content/code-time.webp" hspace="30" vspace="5" align="left" width="100" title="gmail">
 <p>
 I am a full-stack developer with extensive experience building and delivering stable, scalable, and intuitive web apps. I thrive at transforming difficult ideas into elegant and effective solutions since I have a solid foundation in both front-end and back-end technologies.
 </p>
@@ -49,7 +49,7 @@ I am skilled in using a variety of databases and have expertise working with ser
 <br>
 <h2 align="center">✉️ Here you have my social networks</h2>
 
-<div style="text-align:center;">
+<div align="center">
   <a href="mailto:hello@alejandroestarlich.es" target="_blank">
     <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">
   </a>
