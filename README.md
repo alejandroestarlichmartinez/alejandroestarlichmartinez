@@ -1,14 +1,10 @@
-<h1 align="center">Hi there! Thank you for your visit</h1>
+<h1 align="center">Hi there! Thank you for your visit 😁</h1>
 
 <p align="center">
   <img src="./content/gif-github-main.webp" title="Hi, nice to meet you!">
 </p>
 
-
-<!-- Socials with Links -->
-<!-- Gifs found on GIPHY made by @devrock -->
-
-<h2 align="center">You can find me coding with...</h2>
+<h2 align="center">📖 You can find me coding with...</h2>
 <p align="center">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
@@ -23,7 +19,7 @@
   <img alt="github" src="./content/git.webp" width="100" title="git">
   <img alt="github" src="./content/node.webp" width="100" title="node">
 </p>
-
+<br>
 <h3>And, of course, with other tools like...</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60px" title="django">
@@ -38,12 +34,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60px" title="docker">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="60px" title="docker">
 </p>
+<br>
+<h2 align="center">🚀 About me</h2>
+<img src="./content/code-time.webp" hspace="30" vspace="5" style="float:left;" width="100" title="gmail">
+<p>
+I am a full-stack developer with extensive experience building and delivering stable, scalable, and intuitive web apps. I thrive at transforming difficult ideas into elegant and effective solutions since I have a solid foundation in both front-end and back-end technologies.
+</p>
+<p>
+I have successfully completed a variety of projects during my career, from creating dynamic e-commerce systems to creating engaging and adaptable online applications. I can create visually beautiful and understandable user interfaces that improve the user experience thanks to my in-depth understanding of HTML, CSS, JavaScript, and numerous frameworks.
+</p>
+<p>
+I am skilled in using a variety of databases and have expertise working with server-side languages like Python and Node.js. I am well-versed in RESTful design and API integration, ensuring smooth communication between the system's many parts.
+</p>
+<br>
+<h2 align="center">✉️ Here you have my social networks</h2>
 
-<h2 align="center">Here you have my social networks</h2>
-
-Don't hesitate to contact me!<div style="text-align:center;">
-    [<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">](mailto:hello@alejandroestarlich.es)
-    [<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">](https://www.linkedin.com/in/alejandro-estarlich/)
+<div style="text-align:center;">
+  <a href="mailto:hello@alejandroestarlich.es" target="_blank">
+    <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/alejandro-estarlich/" target="_blank">
+    <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="gmail">
+  </a>
 </div>
 
 
