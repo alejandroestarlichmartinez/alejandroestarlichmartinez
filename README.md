@@ -10,14 +10,14 @@
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
   <img alt="html5" src="./content/html5.webp" width="100" title="html">
   <img alt="css" src="./content/css.webp" width="100" title="css">
-  <img src="./content/react.webp" width="100px" title="react">
+  <img alt="react" src="./content/react.webp" width="100px" title="react">
 </p>
 <p align="center">
   <img src="./content/angular.webp" width="100px" title="angular">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="github" src="./content/git.webp" width="100" title="git">
-  <img alt="github" src="./content/node.webp" width="100" title="node">
+  <img alt="git" src="./content/git.webp" width="100" title="git">
+  <img alt="node" src="./content/node.webp" width="100" title="node">
 </p>
 <br>
 <h3>And, of course, with other tools like...</h3>
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60px" title="mongodb">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="60px" title="google cloud">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60px" title="docker">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="60px" title="docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="60px" title="kubernetes">
 </p>
 <br>
 <h2 align="center">🚀 About me</h2>
