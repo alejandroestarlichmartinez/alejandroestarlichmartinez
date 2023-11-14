@@ -16,8 +16,8 @@
   <img src="./content/angular.webp" width="100px" title="angular">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="git" src="./content/git.webp" width="100" title="git">
   <img alt="node" src="./content/node.webp" width="100" title="node">
+  <img alt="git" src="./content/git.webp" align="middle" width="100" title="git">
 </p>
 <br>
 <h3>And, of course, with other tools like...</h3>
